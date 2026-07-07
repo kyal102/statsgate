@@ -1,6 +1,6 @@
 # StatsGate
 
-![CI](https://img.shields.io/badge/CI-passing-brightgreen) ![python](https://img.shields.io/badge/python-3.9%2B-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![deps](https://img.shields.io/badge/dependencies-stdlib--only-blue) ![tests](https://img.shields.io/badge/tests-19%20passing-brightgreen)
+[![CI](https://github.com/kyal102/statsgate/actions/workflows/ci.yml/badge.svg)](https://github.com/kyal102/statsgate/actions/workflows/ci.yml) ![python](https://img.shields.io/badge/python-3.9%2B-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![deps](https://img.shields.io/badge/dependencies-stdlib--only-blue) ![tests](https://img.shields.io/badge/tests-19%20passing-brightgreen)
 
 **Catch impossible or inconsistent reported statistics before they become confident AI claims.**
 
